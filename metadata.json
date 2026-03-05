@@ -1,0 +1,9 @@
+{
+  "name": "LMLM: Personal Companion",
+  "description": "LMLM listens, learns, and grows with you — guiding, reminding, and conversing like a personal companion every day.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "prompt": ""
+}
